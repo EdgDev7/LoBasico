@@ -1,10 +1,10 @@
-# Lo Básico de Programación Python
+# 🧩 Lo Básico de Programación Python 🧩
 
 Guia de herramientas mínimas para comenzar con Python en Windows 10 para practicar código.
 
 
 
-## Instalación Git:
+## 📑 Instalación Git:
 
 Instalar Git, una vez que se instala tendremos disponible en la consola de Windows los comandos para interactuar con GitHub. Esto servirá para casi todo lo que hagamos en Github. Instalación obligada.
 
@@ -15,7 +15,7 @@ link:
 https://git-scm.com/download/win
 
 
-## Instalación Python:
+## ☕ Instalación Python:
 
 Instalacion del Intérprete de Python:
 
@@ -28,7 +28,7 @@ Link
 [https://www.python.org/downloads/](https://www.python.org/downloads/windows/)
 
 
-## Instalación MySql: 
+## 💾 Instalación MySql: 
 
 Instalacion de MySQL para gestionar, crear bases de datos. Descargar la version "Windows (x86, 32-bit), MSI Installer 	8.0.29 	439.6M" la de mayor tamaño que salga en la lista, que trae todo lo necesario incluido el Workbench para diseñar las bases de datos. 
 
@@ -36,17 +36,54 @@ link:
 [https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
 
 
-Nos guardaremos los instaladores por si los necesitamos para arreglar las instalaciones y ahorrar tiempo o no tenemos internet. Pueden ser llevados en pen drive a otras PC y ser instalados ahorrando espacio y datos de tráfico. 
+---
+
+**😀 Tip:** Nos guardaremos los instaladores por si los necesitamos para arreglar las instalaciones y ahorrar tiempo o no tenemos internet. Pueden ser llevados en pen drive a otras PC y ser instalados ahorrando espacio y datos de tráfico. 👍
+
+---
 
 
-## Instalación Editor de Código:
+Una vez instalados los 3 softwares básicos abrimos una consola de comandos de Windows. **(La buscamos en el inicio o hacemos Tecla Windows + R, ahi escribimos CMD y damos a enter)**
+
+
+ 
+---
+
+**😬 Otro Tip:** Si la buscamos en el inicio, recomiendo anclar a barra de tareas haciendo click derecho a su icono y eligiendo la opción de anclar. Asi está visible y a mano al instante en el escritorio.
+
+---
+
+
+
+Ejecutamos los tres comandos para revisar si se instalaron nuestras herramientas básicas. Presionamos enter luego de cada uno para ver si muestra su versión instalada. Si alguno indica error hay que revisar o reinstalarlo.
+
+````
+
+git --version
+
+python --version
+
+mysql --version
+
+````
+
+![](checkout_basico.png)
+
+
+✔ En las respuestas podemos que que responden ok los programas. Quiere decir que tenemos lo necesario. Lo unico que va a variar son las versiones ya que pueden salir más nuevas luego de esta guía.
+
+<br>
+
+# 📘 Instalación Editor de Código:
 
 La facultad nos recomienda Visual Studio Code, opcion System Installer 32 bit.
 
 https://code.visualstudio.com/download#
 
 
-# Otros Editores alternativos:
+<br>
+
+## Otros Editores alternativos:
 
 No es obligatorio usar Visual Studio Code pero es el más utilizado hoy, y tiene mucha asistencia inteligente cuando se está codificando, sugerencias, correcciones, aviso de errores antes de ejecutar el código etc.
 
