@@ -72,6 +72,19 @@ mysql --version
 
 ✔ En las respuestas podemos que que responden ok los programas. Quiere decir que tenemos lo necesario. Lo unico que va a variar son las versiones ya que pueden salir más nuevas luego de esta guía.
 
+---
+**☝ Final Tip:**
+
+Cuando ya se tiene todo instalado, podemos regularmente mantener actualizado el gestor de paquetes de software de pthon, el cual nos permitirá instalar nuevas funcionalidades, librerías, y también programas hechos en python creados por la comunidad.
+
+### Actualizar a la última versión de Pip, el gestor de paquetes de software de python:
+
+````
+
+python -m pip install --upgrade pip
+
+````
+---
 <br>
 
 # 📘 Instalación Editor de Código:
