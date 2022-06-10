@@ -83,6 +83,8 @@ Cuando ya se tiene todo instalado, podemos regularmente mantener actualizado el 
 
 python -m pip install --upgrade pip
 
+pip --version
+
 ````
 ---
 <br>
