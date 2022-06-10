@@ -1,4 +1,4 @@
-# 🧩 Lo Básico de Programación Python 🧩
+# 🧩 Lo Básico para practicar Programación Python 🧩
 
 Guia de herramientas mínimas para comenzar con Python en Windows 10 para practicar código.
 
