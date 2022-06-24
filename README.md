@@ -49,7 +49,7 @@ Una vez instalados los 3 softwares básicos abrimos una consola de comandos de W
  
 ---
 
-**😬 Otro Tip:** Si la buscamos en el inicio, recomiendo anclar a barra de tareas haciendo click derecho a su icono y eligiendo la opción de anclar. Asi está visible y a mano al instante en el escritorio.
+**😬 Otro Tip:** Si buscamos el terminal CMD en el inicio, recomiendo anclar a barra de tareas haciendo click derecho a su icono y eligiendo la opción de anclar. Asi está visible y a mano al instante en el escritorio.
 
 ---
 
@@ -70,12 +70,12 @@ mysql --version
 ![](checkout_basico.png)
 
 
-✔ En las respuestas podemos que que responden ok los programas. Quiere decir que tenemos lo necesario. Lo unico que va a variar son las versiones ya que pueden salir más nuevas luego de esta guía.
+✔ En las respuestas podemos que responden los programas indicando su versión actual. Quiere decir que tenemos lo necesario. Lo unico que va a variar son las versiones ya que pueden salir más nuevas luego de esta guía.
 
 ---
 **☝ Final Tip:**
 
-Cuando ya se tiene todo instalado, podemos regularmente mantener actualizado el gestor de paquetes de software de pthon, el cual nos permitirá instalar nuevas funcionalidades, librerías, y también programas hechos en python creados por la comunidad.
+Cuando ya se tiene todo instalado, podemos regularmente mantener actualizado el gestor de paquetes de software de python, el cual nos permitirá instalar nuevas funcionalidades, librerías, y también programas hechos en python creados por la comunidad.
 
 ### Actualizar a la última versión de Pip, el gestor de paquetes de software de python:
 
@@ -102,5 +102,5 @@ https://code.visualstudio.com/download#
 
 No es obligatorio usar Visual Studio Code pero es el más utilizado hoy, y tiene mucha asistencia inteligente cuando se está codificando, sugerencias, correcciones, aviso de errores antes de ejecutar el código etc.
 
-Si no lo pueden usar por PC lenta, o por otro motivo técnico pueden usar desde el Block de Notas de Windows, Notepad++, o Atom que es similar a Visual Studio Code y es el editor de Github oficial. Pueden usar que quieran y sea más cómodo y se sientan mejor. Ya que python es sólo código en texto común que es ejecutado por el intérprete que instalaron.
+Si no lo pueden usar por PC lenta, o por otro motivo técnico pueden usar desde el Block de Notas de Windows, Notepad++, o Atom que es similar a Visual Studio Code y es el editor de GitHub oficial. Pueden usar que quieran y sea más cómodo y se sientan mejor. Ya que python es sólo código en texto común que es ejecutado por el intérprete que instalaron.
 
