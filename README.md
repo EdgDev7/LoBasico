@@ -30,7 +30,8 @@ Link
 
 ## 💾 Instalación MySql: 
 
-Instalacion de MySQL para gestionar, crear bases de datos. Descargar la version "Windows (x86, 32-bit), MSI Installer 	8.0.29 	439.6M" la de mayor tamaño que salga en la lista, que trae todo lo necesario incluido el Workbench para diseñar las bases de datos. 
+Instalacion de MySQL para gestionar, crear bases de datos. Descargar la version "Windows (x86, 32-bit), MSI Installer 	8.0.30 	448.3M 	
+" la de mayor tamaño que salga en la lista, que trae todo lo necesario incluido el Workbench para diseñar las bases de datos. Y nos guardamos el instalador.
 
 link:
 [https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
