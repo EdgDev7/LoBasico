@@ -105,3 +105,24 @@ No es obligatorio usar Visual Studio Code pero es el más utilizado hoy, y tiene
 
 Si no lo pueden usar por PC lenta, o por otro motivo técnico pueden usar desde el Block de Notas de Windows, Notepad++, o Atom que es similar a Visual Studio Code y es el editor de GitHub oficial. Pueden usar que quieran y sea más cómodo y se sientan mejor. Ya que python es sólo código en texto común que es ejecutado por el intérprete que instalaron.
 
+<br>
+
+
+
+# 📘 Python y MySQL - Requiere de Driver de conexión:
+
+### Para hacer un programa que se conecte a una base de datos MySQL es necesario tener instalado un driver para Python, llamado mysql-connector-python.
+
+#### ✔ Este paso debemos realizarlo luego de instalar Python. También es adecuado tener mysql server en PC si se desea probar con base de datos local.
+
+
+💻 En la consola de windows o el terminal usamos el comando pip que ya viene incluido cuando instalamos Python: 
+
+Instalarlo:
+````
+pip install mysql-connector-python
+````
+Desinstalarlo:
+````
+pip uninstall mysql-connector-python
+````
