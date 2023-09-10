@@ -19,7 +19,7 @@ https://git-scm.com/download/win
 
 Instalacion del Intérprete de Python:
 
-Para Windows 10 Instalar la última version. Por ahora la 3.10
+Para Windows 10 Instalar la última version. Por ahora la 3.11.5
 
 Para Windows 7 Instalar la última posible. Que es la 3.8.10. Desde la 3.9 no funcionan con Windows 7
 
@@ -30,7 +30,9 @@ Link
 
 ## 💾 Instalación MySql: 
 
-Instalacion de MySQL para gestionar, crear bases de datos. Descargar la version "Windows (x86, 32-bit), MSI Installer 	8.0.30 	448.3M 	
+Instalacion de MySQL para gestionar, crear bases de datos. Descargar la version "Windows (x86, 32-bit), MSI Installer 8.0.34 331.3M
+                                           
+ 	
 " la de mayor tamaño que salga en la lista, que trae todo lo necesario incluido el Workbench para diseñar las bases de datos. Y nos guardamos el instalador.
 
 link:
